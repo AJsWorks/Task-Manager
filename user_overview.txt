@@ -1,0 +1,31 @@
+
+    -----------------------------------------------------------------------------------------------------
+    User Overview Report
+    Date : 2023-02-10
+    -----------------------------------------------------------------------------------------------------
+    Total number of user :                   2
+
+    Total number of tasks :                  3
+    -----------------------------------------------------------------------------------------------------
+    USERNAME : admin
+    Total number of tasks assigned to the user :                                                   1
+
+    Percentage of the total number of tasks that have been assigned to the user :                  33.33%
+
+    Percentage of the tasks assigned to the user that have completed :                             0.0%
+
+    Percentage of the tasks assigned to the user that must still be completed :                    100.0%
+
+    Percentage of the tasks assigned to the user that have not yet been completed and are overdue: 100.0%
+    ------------------------------------------------------------------------------------------------------
+    USERNAME : test
+    Total number of tasks assigned to the user :                                                   2
+
+    Percentage of the total number of tasks that have been assigned to the user :                  66.67%
+
+    Percentage of the tasks assigned to the user that have completed :                             50.0%
+
+    Percentage of the tasks assigned to the user that must still be completed :                    50.0%
+
+    Percentage of the tasks assigned to the user that have not yet been completed and are overdue: 0.0%
+    ------------------------------------------------------------------------------------------------------
